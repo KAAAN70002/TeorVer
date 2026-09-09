@@ -35,4 +35,4 @@ $$P_n(n_1, n_2, ..., n_k) = \frac{n!}{n_1!n_2!\cdots n_k!}$$
 1. Н. Ш. Кремер, «Теория вероятностей и математическая статистика», § 1.5–1.6.
 
 ## Решение задач.
-[lab 1.ipynb](https://github.com/KAAAN70002/TeorVer/blob/main/LAB%201.%20Combinatorics/Lab%201%20.ipynb)
+[1 laba.ipynb](https://github.com/KAAAN70002/TeorVer/blob/main/LAB%201.%20Combinatorics/1%20laba.ipynb)
