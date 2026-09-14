@@ -3,4 +3,4 @@
 В репозитории собраны лабораторные работы по дисциплине «Теория вероятностей».
 
 ## Лабораторные работы
-[Jupyter Notebook]((https://github.com/KAAAN70002/TeorVer/blob/main/razdel%201/1%20(1).ipynb))
+[Jupyter Notebook](https://github.com/KAAAN70002/TeorVer/blob/main/razdel%201/1%20(1).ipynb)
